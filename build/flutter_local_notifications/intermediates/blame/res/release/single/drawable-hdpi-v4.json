@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/flutter_local_notifications/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/76b30bb19bd973ed6d3b50ca6bb17089/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/flutter_local_notifications/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/76b30bb19bd973ed6d3b50ca6bb17089/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/flutter_local_notifications/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/76b30bb19bd973ed6d3b50ca6bb17089/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/flutter_local_notifications/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/76b30bb19bd973ed6d3b50ca6bb17089/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/flutter_local_notifications/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/76b30bb19bd973ed6d3b50ca6bb17089/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

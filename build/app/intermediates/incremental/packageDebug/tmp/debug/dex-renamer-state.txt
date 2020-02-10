@@ -1,0 +1,10 @@
+#Wed Jun 12 23:55:33 IST 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/shivam/AndroidStudioProjects/hsm/build/app/intermediates/transforms/dexMerger/debug/0
+base.1=/home/shivam/AndroidStudioProjects/hsm/build/app/intermediates/transforms/dexMerger/debug/0
+base.0=/home/shivam/AndroidStudioProjects/hsm/build/app/intermediates/transforms/dexMerger/debug/0

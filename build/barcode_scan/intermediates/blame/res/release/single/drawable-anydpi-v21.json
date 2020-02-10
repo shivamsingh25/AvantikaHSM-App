@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/barcode_scan/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e5926ef953ea94dea273a54f48b24198/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/hsm/build/barcode_scan/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/shivam/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e5926ef953ea94dea273a54f48b24198/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

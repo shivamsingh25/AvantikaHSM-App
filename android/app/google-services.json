@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950703624768",
+    "firebase_url": "https://avantikahsm-28ac9.firebaseio.com",
+    "project_id": "avantikahsm-28ac9",
+    "storage_bucket": "avantikahsm-28ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950703624768:android:5957c1504fac7dc9",
+        "android_client_info": {
+          "package_name": "edu.avantika.hsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950703624768-odprgt8gd3n1kaf3b6d199u44gofue76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.avantika.hsm",
+            "certificate_hash": "ec2a1e0bbe29375565564e77a929f4b37c0a6e6a"
+          }
+        },
+        {
+          "client_id": "950703624768-s99fj7lev6ehf22sf613fdrdv3obg93d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCngQrSFT348JF7fahQ5ktrDKHMTGeY5RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950703624768-s99fj7lev6ehf22sf613fdrdv3obg93d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
