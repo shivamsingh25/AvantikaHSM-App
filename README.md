@@ -24,7 +24,19 @@ The following ER model was designed and used for the application:
 
 
 
+###### Mock-up:
+
+![HSMapp](files/HSMapp.jpg)
+
+###### IoS integration:
+
+![IoS](files/IoS.png)
+
 This application is backed by PHP and MySQL powered API's for its functioning which aren't exposed in this repository taking into consideration the internal working factors of Avantika University.
+
+#### Links:
+
+* [Behance](https://www.behance.net/gallery/91604481/Avantika-HSM-mobile-application)
 
 ____
 
