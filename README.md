@@ -28,7 +28,7 @@ The following ER model was designed and used for the application:
 
 ![HSMapp](files/HSMapp.jpg)
 
-###### IoS integration:
+###### IOS integration:
 
 ![IoS](files/IoS.png)
 
